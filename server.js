@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
+const router = require('./routes/router');
 
 const dotenv = require('dotenv');
 dotenv.config();
@@ -17,6 +18,7 @@ app.use(
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.use(cookieParser());
+app.use(`${process.env.BASE_URL}`, router);
 
 app.get('/', (req, res) => {
   res.send('Success Get API ENTERITY');
