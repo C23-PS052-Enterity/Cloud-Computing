@@ -11,4 +11,5 @@ router.post('/login', auth.login);
 router.post('/logout', auth.logout);
 
 router.get('/user/:id', [verifyToken], user.getUserById);
+router.put('/user/:id', [verifyToken], user.updateUserById);
 module.exports = router;
