@@ -3,6 +3,7 @@ const { hashPassword, comparePassword } = require('../helpers/bcrypt');
 const jwt = require('jsonwebtoken');
 const { v4: uuid } = require('uuid');
 const { validateRegistration, validateLogin } = require('../validator/auth-joiSchema');
+const sendToken = require('../helpers/sendToken');
 
 const register = async (req, res) => {
   try {
@@ -75,17 +76,23 @@ const login = async (req, res) => {
     const passwordMatches = await comparePassword(password, retrievedUser.password);
 
     if (passwordMatches) {
-      const jwtToken = {
-        email: retrievedUser.email,
-        payload: retrievedUser.payload,
-      };
+      const accessToken = sendToken.accessToken(retrievedUser);
+      const refreshToken = sendToken.refreshToken(retrievedUser);
 
-      const token = jwt.sign(jwtToken, process.env.ACCESS_TOKEN_KEY);
+      res.cookie =
+        ('refreshToken',
+        refreshToken,
+        {
+          httpOnly: true,
+          maxAge: process.env.COOKIE_EXPIRES_TIME * 24 * 60 * 60 * 1000,
+          secure: true,
+        });
 
       return res.status(200).json({
         status: 'success',
         message: 'user logged in Succesfully',
-        token: token,
+        accessToken: accessToken,
+        refreshToken: refreshToken,
       });
     }
   } catch (err) {
@@ -96,4 +103,26 @@ const login = async (req, res) => {
   }
 };
 
-module.exports = { register, login };
+const logout = async (req, res) => {
+  try {
+    const { refreshToken } = req.cookies;
+
+    if (!refreshToken) {
+      return res.status(400).json({
+        message: 'user not logged in',
+      });
+    }
+
+    res.clearCookie('refreshToken');
+    res.status(200).json({
+      message: 'user logged out succesfully',
+    });
+  } catch (error) {
+    return res.status(500).json({
+      status: 'failed',
+      message: error.message,
+    });
+  }
+};
+
+module.exports = { register, login, logout };
