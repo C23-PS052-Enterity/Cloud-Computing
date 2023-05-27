@@ -1,7 +1,3 @@
-env:
-  PROJECT_ID: enterity
-  SERVICE_NAME: enterity-API
-
 steps:
   - name: Build
     args: ['build', '-t', 'gcr.io/$PROJECT_ID/$SERVICE_NAME:latest', '.']
