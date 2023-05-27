@@ -4,7 +4,4 @@ env:
 
 steps:
    - name: Build
-      run: |-
-        gcloud builds submit \
-          --quiet \
-          --tag "gcr.io/$PROJECT_ID/$SERVICE_NAME:latest" .
+     args: ['build', '-t', 'gcr.io/$PROJECT_ID/$SERVICE_NAME:latest'.']
