@@ -9,6 +9,10 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 8080;
 
+app.get('/', (req, res) => {
+  res.send('Success Get API ENTERITY');
+});
+
 app.use(
   cors({
     origin: '*',
@@ -19,10 +23,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 app.use(cookieParser());
 app.use(`${process.env.BASE_URL}`, router);
-
-app.get('/', (req, res) => {
-  res.send('Success Get API ENTERITY');
-});
 
 app.listen(PORT, () => {
   console.log(`app listen on port ${PORT}`);
