@@ -28,6 +28,11 @@ const updateUserById = async (req, res) => {
   try {
     const { nama_toko, email, password } = req.body;
     const id = req.params.id;
+    let profile_picture = 'https://storage.googleapis.com/enterity/enterity.png';
+
+    if (req.file && req.file.cloudStoragePublicUrl) {
+      profile_picture = req.file.cloudStoragePublicUrl;
+    }
 
     const foundId = await User.findByPk(id);
 
@@ -49,6 +54,7 @@ const updateUserById = async (req, res) => {
           nama_toko: nama_toko,
           email: email,
           password: hashPassword(password),
+          profile_picture: profile_picture,
         });
 
         return res.status(200).json({
@@ -67,6 +73,7 @@ const updateUserById = async (req, res) => {
       nama_toko: nama_toko,
       email: email,
       password: hashPassword(password),
+      profile_picture: profile_picture,
     });
     return res.status(201).json({
       status: 'success',
