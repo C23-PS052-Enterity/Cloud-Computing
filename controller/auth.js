@@ -34,7 +34,8 @@ const register = async (req, res) => {
       nama_toko: nama_toko,
       email: email,
       password: encryptedPassword,
-      profile_picture: 'https://storage.googleapis.com/enterity/enterity.png',
+      profile_picture:
+        'https://storage.googleapis.com/assets-enterity/profile_picture/Enterity_logo.png',
     });
 
     return res.status(201).json({

@@ -4,7 +4,8 @@
   "description": "C23-PS052 ENTERITY API",
   "main": "server.js",
   "scripts": {
-    "start": "npx sequelize db:create && npx sequelize db:migrate && node server.js"
+    "start": "npx sequelize db:create && npx sequelize db:migrate && node server.js",
+    "start-dev": "nodemon server.js"
   },
   "author": "alibarmonster",
   "license": "ISC",

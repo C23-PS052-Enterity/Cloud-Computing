@@ -28,7 +28,8 @@ const updateUserById = async (req, res) => {
   try {
     const { nama_toko, email, password } = req.body;
     const id = req.params.id;
-    let profile_picture = 'https://storage.googleapis.com/enterity/enterity.png';
+    let profile_picture =
+      'https://storage.googleapis.com/assets-enterity/profile_picture/Enterity_logo.png';
 
     if (req.file && req.file.cloudStoragePublicUrl) {
       profile_picture = req.file.cloudStoragePublicUrl;

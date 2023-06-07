@@ -12,6 +12,7 @@ const { verifyToken } = require('../middleware/auth-middleware');
 
 const auth = require('../controller/auth');
 const user = require('../controller/user');
+const platform = require('../controller/platform');
 
 router.post('/register', auth.register);
 router.post('/login', auth.login);
@@ -25,4 +26,7 @@ router.put(
   ImgUpload.uploadToGcs,
   user.updateUserById,
 );
+
+router.get('/platforms/', verifyToken, platform.getAllIconPlatforms);
+
 module.exports = router;
