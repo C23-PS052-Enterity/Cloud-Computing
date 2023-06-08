@@ -12,6 +12,8 @@ const register = async (req, res) => {
     const { error } = validateRegistration.validate(req.body);
     if (error) {
       return res.status(400).json({
+        code: 200,
+        status: 'error',
         message: error.message,
       });
     }
@@ -24,6 +26,8 @@ const register = async (req, res) => {
 
     if (existingEmail) {
       return res.status(400).json({
+        code: 200,
+        status: 'error',
         message: 'email has been registered',
       });
     }
@@ -39,13 +43,15 @@ const register = async (req, res) => {
     });
 
     return res.status(201).json({
+      code: 200,
       status: 'success',
       message: 'User created Succesfully',
       data: createdUser,
     });
   } catch (err) {
     return res.status(500).json({
-      status: 'failed',
+      code: 200,
+      status: 'error',
       message: err.message,
     });
   }
@@ -58,6 +64,8 @@ const login = async (req, res) => {
     const { error } = validateLogin.validate(req.body);
     if (error) {
       return res.status(400).json({
+        code: 200,
+        status: 'error',
         message: error.message,
       });
     }
@@ -70,6 +78,8 @@ const login = async (req, res) => {
 
     if (!retrievedUser) {
       return res.status(400).json({
+        code: 200,
+        status: 'error',
         message: 'Email is not registered',
       });
     }
@@ -90,6 +100,7 @@ const login = async (req, res) => {
         });
 
       return res.status(200).json({
+        code: 200,
         status: 'success',
         message: 'user logged in Succesfully',
         accessToken: accessToken,
@@ -98,7 +109,8 @@ const login = async (req, res) => {
     }
   } catch (err) {
     return res.status(500).json({
-      status: 'failed',
+      code: 200,
+      status: 'error',
       message: err.message,
     });
   }
@@ -110,17 +122,22 @@ const logout = async (req, res) => {
 
     if (!refreshToken) {
       return res.status(400).json({
+        code: 200,
+        status: 'error',
         message: 'user not logged in',
       });
     }
 
     res.clearCookie('refreshToken');
     res.status(200).json({
+      code: 200,
+      status: 'success',
       message: 'user logged out succesfully',
     });
   } catch (error) {
     return res.status(500).json({
-      status: 'failed',
+      code: 200,
+      status: 'error',
       message: error.message,
     });
   }
