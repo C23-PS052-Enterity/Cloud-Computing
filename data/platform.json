@@ -1,20 +1,32 @@
 [
   {
+    "user_id": "user-73787",
+    "nama_channel": "Tokopedia",
     "url_platform": "https://storage.googleapis.com/assets-enterity/assets/tokopedia_logo.png"
   },
   {
+    "user_id": "user-73787",
+    "nama_channel": "Shoope",
     "url_platform": "https://storage.googleapis.com/assets-enterity/assets/shopee_logo.png"
   },
   {
+    "user_id": "user-73787",
+    "nama_channel": "Lazada",
     "url_platform": "https://storage.googleapis.com/assets-enterity/assets/lazada_logo.png"
   },
   {
+    "user_id": "user-73787",
+    "nama_channel": "SBlibli",
     "url_platform": "https://storage.googleapis.com/assets-enterity/assets/Blibli_logo.png"
   },
   {
+    "user_id": "user-73787",
+    "nama_channel": "Bukalapak",
     "url_platform": "https://storage.googleapis.com/assets-enterity/assets/Bukalapak_logo.png"
   },
   {
+    "user_id": "user-73787",
+    "nama_channel": "Jd.id",
     "url_platform": "https://storage.googleapis.com/assets-enterity/assets/Jd.id_logo.png"
   }
 ]
