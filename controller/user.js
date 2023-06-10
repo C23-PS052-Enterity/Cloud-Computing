@@ -28,7 +28,8 @@ const updateUserById = async (req, res) => {
   try {
     const { nama_toko, email, password } = req.body;
     const id = req.params.id;
-    let profile_picture = 'https://storage.googleapis.com/enterity/enterity.png';
+    let profile_picture =
+      'https://storage.googleapis.com/assets-enterity/profile_picture/Enterity_logo.png';
 
     if (req.file && req.file.cloudStoragePublicUrl) {
       profile_picture = req.file.cloudStoragePublicUrl;
@@ -38,6 +39,8 @@ const updateUserById = async (req, res) => {
 
     if (!foundId) {
       return res.status(404).json({
+        code: 200,
+        status: 'failed',
         message: 'Id not found',
       });
     }
@@ -58,12 +61,15 @@ const updateUserById = async (req, res) => {
         });
 
         return res.status(200).json({
+          code: 200,
           status: 'success',
           message: 'User updated successfully',
           data: foundId,
         });
       } else {
         return res.status(400).json({
+          code: 200,
+          status: 'failed',
           message: 'email already exist',
         });
       }
@@ -76,12 +82,15 @@ const updateUserById = async (req, res) => {
       profile_picture: profile_picture,
     });
     return res.status(201).json({
+      code: 200,
       status: 'success',
       message: 'User updated successfully',
       data: foundId,
     });
   } catch (error) {
     return res.status(500).json({
+      code: 200,
+      status: 'failed',
       message: error.message,
     });
   }

@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "produk_id": "produk-1789738",
+    "platform_id": "3",
+    "unit_terjual": 10,
+    "pendapatan": 300000,
+    "laba": 20,
+    "margin": 10
+  }
+]

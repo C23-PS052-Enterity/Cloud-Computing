@@ -7,13 +7,13 @@ const path = require('path');
 
 const pathKey = path.resolve('./enterity-service-key.json');
 
-// TODO: Sesuaikan konfigurasi Storage
+// konfigurasi Storage
 const gcs = new Storage({
   projectId: process.env.GCLOUD_PROJECT,
   keyFilename: pathKey,
 });
 
-// TODO: Tambahkan nama bucket yang digunakan
+// konfigurasi bucket
 const bucketName = process.env.GCLOUD_BUCKET;
 const bucket = gcs.bucket(bucketName);
 
