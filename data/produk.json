@@ -1,0 +1,16 @@
+[
+  {
+    "id": "produk-1",
+    "url_product": "https://www.tokopedia.com/produk-1",
+    "nama": "Beanie",
+    "stok": 20,
+    "harga_produk": 20000
+  },
+  {
+    "id": "produk-2",
+    "url_product": "https://www.tokopedia.com/produk-2",
+    "nama": "Muscletech",
+    "stok": 10,
+    "harga_produk": 30000
+  }
+]
