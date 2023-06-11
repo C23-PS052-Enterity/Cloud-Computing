@@ -5,11 +5,10 @@ module.exports = {
     await queryInterface.createTable('produks', {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
         type: Sequelize.STRING,
       },
-      url_product: {
+      url_produk: {
         type: Sequelize.STRING,
       },
       nama: {
