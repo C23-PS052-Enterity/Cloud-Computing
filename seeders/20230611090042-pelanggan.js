@@ -1,5 +1,7 @@
 'use strict';
-const platformProduk = require('../models/platform_produk');
+
+const pelanggan = require('../data/pelanggan.json');
+
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
@@ -13,20 +15,19 @@ module.exports = {
      * }], {});
      */
 
-    const dataPlatformProdukToBeSeeded = platformProduk.map((eachPlatformProduk) => {
+    const dataPelangganToBeSeeded = pelanggan.map((eachPelanggan) => {
       return {
-        produk_id: eachPlatformProduk.produk_id,
-        platform_id: eachPlatformProduk.platform_id,
-        unit_terjual: eachPlatformProduk.unit_terjual,
-        pendapatan: eachPlatformProduk.pendapatan,
-        laba: eachPlatformProduk.laba,
-        margin: eachPlatformProduk.margin,
+        url_pelanggan: eachPelanggan.url_pelanggan,
+        nama_pelanggan: eachPelanggan.nama_pelanggan,
+        jenis_kelamin: eachPelanggan.jenis_kelamin,
+        email: eachPelanggan.email,
+        not_telepon: eachPelanggan.not_telepon,
         createdAt: new Date(),
         updatedAt: new Date(),
       };
     });
 
-    await queryInterface.bulkInsert('platform_produks', dataPlatformProdukToBeSeeded, {});
+    await queryInterface.bulkInsert('pelanggans', dataPelangganToBeSeeded, {});
   },
 
   async down(queryInterface, Sequelize) {
