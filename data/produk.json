@@ -2,14 +2,14 @@
   {
     "id": "produk-179373",
     "url_produk": "https://www.tokopedia.com/produk-1",
-    "nama": "Beanie",
+    "nama_produk": "Beanie",
     "stok": 20,
     "harga_produk": 20000
   },
   {
     "id": "produk-17933",
     "url_produk": "https://www.tokopedia.com/produk-2",
-    "nama": "Muscletech",
+    "nama_produk": "Muscletech",
     "stok": 10,
     "harga_produk": 30000
   }

@@ -1,5 +1,5 @@
 'use strict';
-const platformProduk = require('../models/platform_produk');
+const platformProduk = require('../data/platform_produk.json');
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {

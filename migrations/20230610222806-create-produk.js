@@ -11,7 +11,7 @@ module.exports = {
       url_produk: {
         type: Sequelize.STRING,
       },
-      nama: {
+      nama_produk: {
         type: Sequelize.STRING,
       },
       stok: {

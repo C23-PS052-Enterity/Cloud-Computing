@@ -18,7 +18,7 @@ module.exports = {
       return {
         id: eachProduk.id,
         url_produk: eachProduk.url_produk,
-        nama: eachProduk.nama,
+        nama_produk: eachProduk.nama_produk,
         stok: eachProduk.stok,
         harga_produk: eachProduk.harga_produk,
         createdAt: new Date(),
