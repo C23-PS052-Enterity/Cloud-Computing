@@ -9,6 +9,13 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      transaksi.belongsTo(models.platform_produk, {
+        foreignKey: 'platform_produk_id',
+      });
+
+      transaksi.belongsTo(models.pelanggan, {
+        foreignKey: 'pelanggan_id',
+      });
     }
   }
   transaksi.init(

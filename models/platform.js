@@ -1,7 +1,5 @@
 'use strict';
-const {
-  Model
-} = require('sequelize');
+const { Model } = require('sequelize');
 module.exports = (sequelize, DataTypes) => {
   class platform extends Model {
     /**
@@ -10,16 +8,25 @@ module.exports = (sequelize, DataTypes) => {
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      // define association here
+      platform.belongsTo(models.User, {
+        foreignKey: 'user_id',
+      });
+
+      platform.hasMany(models.platform_produk, {
+        foreignKey: 'platform_id',
+      });
     }
   }
-  platform.init({
-    user_id: DataTypes.STRING,
-    nama_channel: DataTypes.STRING,
-    url_platform: DataTypes.STRING
-  }, {
-    sequelize,
-    modelName: 'platform',
-  });
+  platform.init(
+    {
+      user_id: DataTypes.STRING,
+      nama_channel: DataTypes.STRING,
+      url_platform: DataTypes.STRING,
+    },
+    {
+      sequelize,
+      modelName: 'platform',
+    },
+  );
   return platform;
 };
