@@ -1,22 +1,30 @@
-const { iconPlatform } = require('../models');
+const { platform } = require('../models');
 
-const getAllIconPlatforms = async (req, res) => {
+const getAllPlatform = async (req, res) => {
   try {
-    const iconPlatforms = await iconPlatform.findAll();
+    const foundPlatform = await platform.findAll();
+
+    if (!foundPlatform) {
+      return res.status(404).json({
+        code: 200,
+        status: 'failed',
+        message: 'Platform not found',
+      });
+    }
 
     return res.status(200).json({
       code: 200,
       status: 'success',
-      message: 'get all platform',
-      data: iconPlatforms,
+      message: 'Platform found',
+      data: foundPlatform,
     });
   } catch (error) {
     return res.status(500).json({
       code: 200,
-      status: 'error',
+      status: 'failed',
       message: error.message,
     });
   }
 };
 
-module.exports = { getAllIconPlatforms };
+module.exports = { getAllPlatform };

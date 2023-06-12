@@ -5,7 +5,10 @@
   "main": "server.js",
   "scripts": {
     "start": "npx sequelize db:create && npx sequelize db:migrate && node server.js",
-    "start-dev": "nodemon server.js"
+    "start-dev": "nodemon server.js",
+    "drop": "npx sequelize db:drop",
+    "migrate": "npx sequelize db:migrate",
+    "create": "npx sequelize db:create"
   },
   "author": "alibarmonster",
   "license": "ISC",
