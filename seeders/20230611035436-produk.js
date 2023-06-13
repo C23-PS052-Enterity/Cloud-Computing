@@ -1,6 +1,6 @@
 'use strict';
 const produk = require('../data/produk.json');
-
+const { v4: uuid } = require('uuid');
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
@@ -15,8 +15,9 @@ module.exports = {
      */
 
     const dataProdukToBeSeeded = produk.map((eachProduk) => {
+      const productId = `product-${uuid()}`;
       return {
-        id: eachProduk.id,
+        id: productId,
         url_produk: eachProduk.url_produk,
         nama_produk: eachProduk.nama_produk,
         stok: eachProduk.stok,

@@ -1,9 +1,11 @@
-const { User } = require('../models');
+const { User, platform, sequelize } = require('../models');
 const { hashPassword, comparePassword } = require('../helpers/bcrypt');
 const jwt = require('jsonwebtoken');
 const { v4: uuid } = require('uuid');
 const { validateRegistration, validateLogin } = require('../validator/auth-joiSchema');
 const sendToken = require('../helpers/sendToken');
+const queryInterface = sequelize.getQueryInterface();
+const platformData = require('../data/platform.json');
 
 const register = async (req, res) => {
   try {
@@ -41,6 +43,18 @@ const register = async (req, res) => {
       profile_picture:
         'https://storage.googleapis.com/assets-enterity/profile_picture/Enterity_logo.png',
     });
+
+    const platformToBeSeeded = platformData.map((eachPlatform) => {
+      return {
+        user_id: createdUser.id,
+        nama_channel: eachPlatform.nama_channel,
+        url_platform: eachPlatform.url_platform,
+        createdAt: new Date(),
+        updatedAt: new Date(),
+      };
+    });
+
+    await queryInterface.bulkInsert('platforms', platformToBeSeeded, {});
 
     return res.status(201).json({
       code: 200,

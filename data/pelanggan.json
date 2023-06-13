@@ -1,18 +1,10 @@
 [
   {
-    "id": 1,
+    "id": "",
     "url_pelanggan": "google.com",
     "nama_pelanggan": "John Doe",
     "jenis_kelamin": "cowo",
     "email": "johndoe@gmail.com",
     "no_telepon": "08123456789"
-  },
-  {
-    "id": 2,
-    "url_pelanggan": "example.com",
-    "nama_pelanggan": "Marina Joe",
-    "jenis_kelamin": "cewe",
-    "email": "marinajoe@gmail.com",
-    "no_telepon": "082190677853"
   }
 ]

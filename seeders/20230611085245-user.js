@@ -1,6 +1,6 @@
 'use strict';
 
-const { query } = require('express');
+const { hashPassword } = require('../helpers/bcrypt');
 const user = require('../data/user.json');
 
 /** @type {import('sequelize-cli').Migration} */
@@ -15,13 +15,12 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
      */
-
     const dataUserToBeSeeded = user.map((eachUser) => {
       return {
         id: eachUser.id,
         nama_toko: eachUser.nama_toko,
         email: eachUser.email,
-        password: eachUser.password,
+        password: hashPassword(eachUser.password),
         profile_picture: eachUser.profile_picture,
         createdAt: new Date(),
         updatedAt: new Date(),

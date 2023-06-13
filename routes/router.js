@@ -27,6 +27,6 @@ router.put(
   user.updateUserById,
 );
 
-router.get('/platforms', verifyToken, platform.getAllPlatform);
+router.get('/platforms', [verifyToken], platform.getAllPlatform);
 
 module.exports = router;

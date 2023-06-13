@@ -4,6 +4,8 @@ WORKDIR /app/
 
 COPY package*.json ./
 
+COPY enterity-service-key.json ./
+
 RUN npm install
 
 COPY . .

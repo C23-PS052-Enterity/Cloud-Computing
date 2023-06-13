@@ -1,16 +1,121 @@
 [
   {
-    "id": "produk-179373",
-    "url_produk": "https://www.tokopedia.com/produk-1",
-    "nama_produk": "Beanie",
-    "stok": 20,
-    "harga_produk": 20000
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/20in%20Monitor.jpg",
+    "nama_produk": "20Monitor",
+    "stok": 1,
+    "harga_produk": 109.99
   },
   {
-    "id": "produk-17933",
-    "url_produk": "https://www.tokopedia.com/produk-2",
-    "nama_produk": "Muscletech",
-    "stok": 10,
-    "harga_produk": 30000
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/27in%204K%20Gaming%20Monitor.png",
+    "nama_produk": "27in 4K Gaming Monitor",
+    "stok": 1,
+    "harga_produk": 389.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/27in%20FHD%20Monitor.jpeg",
+    "nama_produk": "27in FHD Monitor",
+    "stok": 1,
+    "harga_produk": 149.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/34in%20Ultrawide%20Monitor.jpg",
+    "nama_produk": "34in Ultrawide Monitor",
+    "stok": 1,
+    "harga_produk": 379.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/AA%20Batteries%20(4-pack).jpg",
+    "nama_produk": "AA Batteries (4-pack)",
+    "stok": 1,
+    "harga_produk": 3.84
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/AAA%20Batteries%20(4-pack).jpg",
+    "nama_produk": "AAA Batteries (4-pack)",
+    "stok": 1,
+    "harga_produk": 2.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Apple%20Airpods%20Headphones.png",
+    "nama_produk": "Apple Airpods Headphones",
+    "stok": 1,
+    "harga_produk": 150
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Bose%20SoundSport%20Headphones.jpg",
+    "nama_produk": "Bose SoundSport Headphones",
+    "stok": 1,
+    "harga_produk": 99.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Flatscreen%20TV.jpg",
+    "nama_produk": "Flatscreen TV",
+    "stok": 1,
+    "harga_produk": 300
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Google%20Phone.png",
+    "nama_produk": "Google Phone",
+    "stok": 1,
+    "harga_produk": 600
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/LG%20Washing%20Machine.png",
+    "nama_produk": "LG Washing Machine",
+    "stok": 1,
+    "harga_produk": 600
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Lightning%20Charging%20Cable.jpeg",
+    "nama_produk": "Lightning Charging Cable",
+    "stok": 1,
+    "harga_produk": 14.95
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Macbook%20Pro%20Laptop.jpg",
+    "nama_produk": "Macbook Pro Laptop",
+    "stok": 1,
+    "harga_produk": 1700
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/ThinkPad%20Laptop.png",
+    "nama_produk": "ThinkPad Laptop",
+    "stok": 1,
+    "harga_produk": 999.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/USB-C%20Charging%20Cable.png",
+    "nama_produk": "USB-C Charging Cable",
+    "stok": 1,
+    "harga_produk": 11.95
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/Wired%20Headphones.png",
+    "nama_produk": "Wired Headphones",
+    "stok": 1,
+    "harga_produk": 11.99
+  },
+  {
+    "id": "",
+    "url_produk": "https://storage.googleapis.com/assets-enterity/produk/iPhone.jpg",
+    "nama_produk": "iPhone",
+    "stok": 1,
+    "harga_produk": 700
   }
 ]
