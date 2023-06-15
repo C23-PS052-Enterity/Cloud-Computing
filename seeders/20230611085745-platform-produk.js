@@ -19,8 +19,6 @@ module.exports = {
         platform_id: eachPlatformProduk.platform_id,
         unit_terjual: eachPlatformProduk.unit_terjual,
         pendapatan: eachPlatformProduk.pendapatan,
-        laba: eachPlatformProduk.laba,
-        margin: eachPlatformProduk.margin,
         createdAt: new Date(),
         updatedAt: new Date(),
       };
