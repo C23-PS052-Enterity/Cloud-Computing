@@ -1,7 +1,6 @@
 'use strict';
 
 const pelanggan = require('../data/pelanggan.json');
-
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
@@ -17,6 +16,7 @@ module.exports = {
 
     const dataPelangganToBeSeeded = pelanggan.map((eachPelanggan) => {
       return {
+        id: eachPelanggan.id,
         url_pelanggan: eachPelanggan.url_pelanggan,
         nama_pelanggan: eachPelanggan.nama_pelanggan,
         jenis_kelamin: eachPelanggan.jenis_kelamin,

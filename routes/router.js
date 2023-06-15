@@ -13,6 +13,9 @@ const { verifyToken } = require('../middleware/auth-middleware');
 const auth = require('../controller/auth');
 const user = require('../controller/user');
 const platform = require('../controller/platform');
+const produk = require('../controller/produk');
+const platformProduk = require('../controller/platform_produk');
+const pelanggan = require('../controller/pelanggan');
 
 router.post('/register', auth.register);
 router.post('/login', auth.login);
@@ -27,6 +30,14 @@ router.put(
   user.updateUserById,
 );
 
-router.get('/platforms', verifyToken, platform.getAllPlatform);
+router.get('/platforms', [verifyToken], platform.getAllPlatform);
+
+router.get('/products', [verifyToken], produk.getAllProduk);
+
+router.get('/products/revenues', [verifyToken], platformProduk.totalRevenues);
+router.get('/products/list', [verifyToken], platformProduk.daftarProduk);
+router.get('/products/unitsold', [verifyToken], platformProduk.unitTerjual);
+
+router.get('/customers', [verifyToken], pelanggan.getAllPelanggan);
 
 module.exports = router;

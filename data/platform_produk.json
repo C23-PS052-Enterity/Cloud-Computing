@@ -1,10 +1,20 @@
 [
   {
-    "produk_id": "produk-1789738",
-    "platform_id": "3",
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e567",
+    "platform_id": "1",
     "unit_terjual": 10,
-    "pendapatan": 300000,
-    "laba": 20,
-    "margin": 10
+    "pendapatan": 300000
+  },
+  {
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e567",
+    "platform_id": "1",
+    "unit_terjual": 10,
+    "pendapatan": 300000
+  },
+  {
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e567",
+    "platform_id": "1",
+    "unit_terjual": 10,
+    "pendapatan": 300000
   }
 ]

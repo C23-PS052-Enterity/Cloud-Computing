@@ -1,10 +1,24 @@
-const { platform } = require('../models');
+const { platform, User } = require('../models');
 
 const getAllPlatform = async (req, res) => {
   try {
-    const foundPlatform = await platform.findAll();
+    const query = {
+      where: {
+        user_id: req.user,
+      },
+      include: [
+        {
+          model: User,
+          attributes: {
+            exclude: ['password', 'id', 'createdAt', 'updatedAt', 'profile_picture', 'email'],
+          },
+        },
+      ],
+    };
 
-    if (!foundPlatform) {
+    const allPlatform = await platform.findAll(query);
+
+    if (!allPlatform) {
       return res.status(404).json({
         code: 200,
         status: 'failed',
@@ -16,7 +30,7 @@ const getAllPlatform = async (req, res) => {
       code: 200,
       status: 'success',
       message: 'Platform found',
-      data: foundPlatform,
+      data: allPlatform,
     });
   } catch (error) {
     return res.status(500).json({

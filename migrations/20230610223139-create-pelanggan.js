@@ -5,36 +5,35 @@ module.exports = {
     await queryInterface.createTable('pelanggans', {
       id: {
         allowNull: false,
-        autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING,
       },
       url_pelanggan: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       nama_pelanggan: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       jenis_kelamin: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       email: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       no_telepon: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       createdAt: {
         allowNull: false,
-        type: Sequelize.DATE
+        type: Sequelize.DATE,
       },
       updatedAt: {
         allowNull: false,
-        type: Sequelize.DATE
-      }
+        type: Sequelize.DATE,
+      },
     });
   },
   async down(queryInterface, Sequelize) {
     await queryInterface.dropTable('pelanggans');
-  }
+  },
 };

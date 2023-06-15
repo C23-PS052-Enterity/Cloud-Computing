@@ -21,7 +21,7 @@ module.exports = (sequelize, DataTypes) => {
   transaksi.init(
     {
       platform_produk_id: DataTypes.INTEGER,
-      pelanggan_id: DataTypes.INTEGER,
+      pelanggan_id: DataTypes.STRING,
       harga_total_pembelian: DataTypes.INTEGER,
     },
     {
