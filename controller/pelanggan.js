@@ -4,11 +4,16 @@ const getAllPelanggan = async (req, res) => {
   try {
     const result = await pelanggan.findAll();
     res.status(200).json({
+      code: 200,
+      status: 'success',
       message: 'Get all pelanggan success',
+      total: result.length,
       data: result,
     });
   } catch (error) {
     res.status(500).json({
+      code: 200,
+      status: 'failed',
       message: 'Internal server error',
     });
   }
