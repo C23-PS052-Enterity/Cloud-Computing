@@ -7,37 +7,31 @@ module.exports = {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
       },
       produk_id: {
-        type: Sequelize.STRING
+        type: Sequelize.STRING,
       },
       platform_id: {
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
       },
       unit_terjual: {
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
       },
       pendapatan: {
-        type: Sequelize.INTEGER
-      },
-      laba: {
-        type: Sequelize.INTEGER
-      },
-      margin: {
-        type: Sequelize.DECIMAL
+        type: Sequelize.INTEGER,
       },
       createdAt: {
         allowNull: false,
-        type: Sequelize.DATE
+        type: Sequelize.DATE,
       },
       updatedAt: {
         allowNull: false,
-        type: Sequelize.DATE
-      }
+        type: Sequelize.DATE,
+      },
     });
   },
   async down(queryInterface, Sequelize) {
     await queryInterface.dropTable('platform_produks');
-  }
+  },
 };

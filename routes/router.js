@@ -39,5 +39,6 @@ router.get('/products/list', [verifyToken], platformProduk.daftarProduk);
 router.get('/products/unitsold', [verifyToken], platformProduk.unitTerjual);
 
 router.get('/customers', [verifyToken], pelanggan.getAllPelanggan);
+router.get('/customers/count', [verifyToken], pelanggan.totalPelanggan);
 
 module.exports = router;
