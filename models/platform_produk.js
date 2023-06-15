@@ -27,8 +27,6 @@ module.exports = (sequelize, DataTypes) => {
       platform_id: DataTypes.INTEGER,
       unit_terjual: DataTypes.INTEGER,
       pendapatan: DataTypes.INTEGER,
-      laba: DataTypes.INTEGER,
-      margin: DataTypes.DECIMAL,
     },
     {
       sequelize,
