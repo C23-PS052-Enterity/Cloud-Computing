@@ -8,6 +8,8 @@ COPY enterity-service-key.json ./
 
 RUN npm install
 
+RUN npm run db-start
+
 COPY . .
 
 EXPOSE 8080

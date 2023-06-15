@@ -1,10 +1,162 @@
 [
   {
-    "id": "",
-    "url_pelanggan": "google.com",
+    "id": "pelanggan-2a6e77a8-d650-4fb4-aa3d-78582384d0b6",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
     "nama_pelanggan": "John Doe",
-    "jenis_kelamin": "cowo",
-    "email": "johndoe@gmail.com",
-    "no_telepon": "08123456789"
+    "jenis_kelamin": "L",
+    "email": "john.doe@gmail.com",
+    "no_telepon": "(555) 321-7654"
+  },
+  {
+    "id": "pelanggan-1f48eaa6-3849-4d77-9ad2-72d0d7d23957",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Lisa Johnson",
+    "jenis_kelamin": "P",
+    "email": "lisa.johnson@gmail.com",
+    "no_telepon": "(555) 123-4567"
+  },
+  {
+    "id": "pelanggan-9427c603-4e17-4c6e-96df-c7a5028b1c26",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "David Smith",
+    "jenis_kelamin": "L",
+    "email": "david.smith@gmail.com",
+    "no_telepon": "(555) 234-5678"
+  },
+  {
+    "id": "pelanggan-c78d058b-7c6e-40a2-9f2f-692a8a51b010",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Sarah Williams",
+    "jenis_kelamin": "P",
+    "email": "sarah.williams@gmail.com",
+    "no_telepon": "(555) 345-6789"
+  },
+  {
+    "id": "pelanggan-7e8d2181-80f3-4e46-9e1a-409663670734",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Michael Brown",
+    "jenis_kelamin": "L",
+    "email": "michael.brown@gmail.com",
+    "no_telepon": "(555) 456-7890"
+  },
+  {
+    "id": "pelanggan-48e9ce61-54a4-452b-b034-298dd55b727e",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Jessica Davis",
+    "jenis_kelamin": "P",
+    "email": "jessica.davis@gmail.com",
+    "no_telepon": "(555) 567-8901"
+  },
+  {
+    "id": "pelanggan-1f2343e8-76c3-4d71-8dc6-4a0a5a5502b6",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Matthew Taylor",
+    "jenis_kelamin": "L",
+    "email": "matthew.taylor@gmail.com",
+    "no_telepon": "(555) 678-9012"
+  },
+  {
+    "id": "pelanggan-0a6f8e3d-5abf-4d11-87f9-6d51a38842c4",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Emily Wilson",
+    "jenis_kelamin": "P",
+    "email": "emily.wilson@gmail.com",
+    "no_telepon": "(555) 789-0123"
+  },
+  {
+    "id": "pelanggan-d95a5e76-9e9b-4d76-b881-5ab670a74fe7",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Daniel Anderson",
+    "jenis_kelamin": "L",
+    "email": "daniel.anderson@gmail.com",
+    "no_telepon": "(555) 890-1234"
+  },
+  {
+    "id": "pelanggan-2382bc45-81a7-44da-892c-01b93c66c400",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Olivia Martinez",
+    "jenis_kelamin": "P",
+    "email": "olivia.martinez@gmail.com",
+    "no_telepon": "(555) 901-2345"
+  },
+  {
+    "id": "pelanggan-91eb48bc-4b13-4b29-9bfe-457f5dc8482d",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "James Thomas",
+    "jenis_kelamin": "L",
+    "email": "james.thomas@gmail.com",
+    "no_telepon": "(555) 012-3456"
+  },
+  {
+    "id": "pelanggan-8af47dd9-41dd-4d64-b72e-39851a146e11",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Ava Jackson",
+    "jenis_kelamin": "P",
+    "email": "ava.jackson@gmail.com",
+    "no_telepon": "(555) 123-4567"
+  },
+  {
+    "id": "pelanggan-ecb0dbde-7da4-4946-8479-44f920b3b2e4",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Joseph Lee",
+    "jenis_kelamin": "L",
+    "email": "joseph.lee@gmail.com",
+    "no_telepon": "(555) 234-5678"
+  },
+  {
+    "id": "pelanggan-7017a4bc-19e6-4c6b-9e86-f2a1b06204b0",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Mia White",
+    "jenis_kelamin": "P",
+    "email": "mia.white@gmail.com",
+    "no_telepon": "(555) 345-6789"
+  },
+  {
+    "id": "pelanggan-5265a19e-aeab-46e4-b92c-1341f756a6b6",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Ethan Harris",
+    "jenis_kelamin": "L",
+    "email": "ethan.harris@gmail.com",
+    "no_telepon": "(555) 456-7890"
+  },
+  {
+    "id": "pelanggan-7e192d2e-d4c0-4ad3-9b97-9ef6a5406823",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Sophia Martin",
+    "jenis_kelamin": "P",
+    "email": "sophia.martin@gmail.com",
+    "no_telepon": "(555) 567-8901"
+  },
+  {
+    "id": "pelanggan-9be4ae3c-5e19-4f71-b3fb-8e27a431bfcc",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Benjamin Thompson",
+    "jenis_kelamin": "L",
+    "email": "benjamin.thompson@gmail.com",
+    "no_telepon": "(555) 678-9012"
+  },
+  {
+    "id": "pelanggan-601d73c5-8b4b-4e4c-aa45-68a6842d9a12",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Isabella Clark",
+    "jenis_kelamin": "P",
+    "email": "isabella.clark@gmail.com",
+    "no_telepon": "(555) 789-0128"
+  },
+  {
+    "id": "pelanggan-0ab2ccce-6f86-4577-93f2-346bc1583dbf",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/man.png",
+    "nama_pelanggan": "Ryan Anderson",
+    "jenis_kelamin": "L",
+    "email": "ryan.anderson@gmail.com",
+    "no_telepon": "(555) 123-37564"
+  },
+  {
+    "id": "pelanggan-9f1d6921-16fc-4175-953e-74d0ee96f7da",
+    "url_pelanggan": "https://storage.googleapis.com/assets-enterity/icon_pelanggan/woman.png",
+    "nama_pelanggan": "Emma Johnson",
+    "jenis_kelamin": "P",
+    "email": "emma.johnson@gmail.com",
+    "no_telepon": " (555) 234-0566"
   }
 ]

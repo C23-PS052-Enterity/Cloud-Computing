@@ -1,7 +1,7 @@
 [
   {
     "platform_produk_id": 1,
-    "pelanggan_id": 1,
+    "pelanggan_id": "pelanggan-2a6e77a8-d650-4fb4-aa3d-78582384d0b6",
     "harga_total_pembelian": 20000,
     "order_date": "2021-01-01 00:00:00"
   }

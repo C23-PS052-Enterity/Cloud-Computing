@@ -15,6 +15,7 @@ const user = require('../controller/user');
 const platform = require('../controller/platform');
 const produk = require('../controller/produk');
 const platformProduk = require('../controller/platform_produk');
+const pelanggan = require('../controller/pelanggan');
 
 router.post('/register', auth.register);
 router.post('/login', auth.login);
@@ -36,5 +37,7 @@ router.get('/products', [verifyToken], produk.getAllProduk);
 router.get('/products/revenues', [verifyToken], platformProduk.totalRevenues);
 router.get('/products/list', [verifyToken], platformProduk.daftarProduk);
 router.get('/products/unitsold', [verifyToken], platformProduk.unitTerjual);
+
+router.get('/customers', [verifyToken], pelanggan.getAllPelanggan);
 
 module.exports = router;

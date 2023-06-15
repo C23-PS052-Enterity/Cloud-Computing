@@ -13,7 +13,7 @@ module.exports = {
         type: Sequelize.INTEGER,
       },
       pelanggan_id: {
-        type: Sequelize.INTEGER,
+        type: Sequelize.STRING,
       },
       harga_total_pembelian: {
         type: Sequelize.INTEGER,
