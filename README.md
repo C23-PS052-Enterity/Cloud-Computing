@@ -178,6 +178,26 @@ after that run in mode development
 | :-------------- | :------- | :----------- |
 | `Authorization` | `Bearer` | **Required** |
 
+#### Get Customer with Channel
+
+```bash
+  GET https://enterity-api-4mdnt45fbq-et.a.run.app/api/v1/customers/list
+```
+
+| Headers         | Value    | Description  |
+| :-------------- | :------- | :----------- |
+| `Authorization` | `Bearer` | **Required** |
+
+#### Get data input
+
+```bash
+  GET https://enterity-api-4mdnt45fbq-et.a.run.app/api/v1/datainput
+```
+
+| Headers         | Value    | Description  |
+| :-------------- | :------- | :----------- |
+| `Authorization` | `Bearer` | **Required** |
+
 ## Infrastructure Design
 
 ![App Screenshot](https://i.imgur.com/uA0X8NM.png)
