@@ -2,5 +2,3 @@ node_modules
 .env
 enterity-service-key.json
 public/static/images
-seeders/20230611085245-user.js
-seeders/20230611090413-platform.js

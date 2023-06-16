@@ -4,7 +4,7 @@
   "description": "C23-PS052 ENTERITY API",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "npm run db-start && node server.js",
     "start-dev": "nodemon server.js",
     "db-start": "npx sequelize db:create && npx sequelize db:migrate && npx sequelize db:seed:all",
     "drop": "npx sequelize db:drop",
