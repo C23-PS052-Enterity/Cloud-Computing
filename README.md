@@ -6,6 +6,12 @@ To run this project, you will need to add the following environment variables th
 
 Edit file `.env.example` and change it to `.env` make sure you fill all the required variables
 
+## Service account key GCP
+
+Generate Service account JSON and select role cloud storage Admin, after that Edit file
+`enterity-service-key-example.json` and change it to `enterity-service-key.json` make sure you copy
+all the json file the json file
+
 ## Getting Started
 
 Clone the project
