@@ -43,5 +43,6 @@ router.get('/customers', [verifyToken], pelanggan.getAllPelanggan);
 router.get('/customers/count', [verifyToken], pelanggan.totalPelanggan);
 
 router.get('/transactions/count', [verifyToken], transaksi.totalTransaction);
+router.get('/customers/list', [verifyToken], transaksi.getCustomersIncludePlatform);
 
 module.exports = router;
