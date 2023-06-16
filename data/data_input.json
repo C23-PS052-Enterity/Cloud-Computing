@@ -1,0 +1,1827 @@
+[
+  {
+    "dayOfYear": 1,
+    "Quantity_Ordered": 44,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e567"
+  },
+  {
+    "dayOfYear": 2,
+    "Quantity_Ordered": 36,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e568"
+  },
+  {
+    "dayOfYear": 3,
+    "Quantity_Ordered": 43,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e569"
+  },
+  {
+    "dayOfYear": 4,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e570"
+  },
+  {
+    "dayOfYear": 5,
+    "Quantity_Ordered": 30,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e571"
+  },
+  {
+    "dayOfYear": 6,
+    "Quantity_Ordered": 42,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e572"
+  },
+  {
+    "dayOfYear": 7,
+    "Quantity_Ordered": 37,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e573"
+  },
+  {
+    "dayOfYear": 8,
+    "Quantity_Ordered": 39,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e574"
+  },
+  {
+    "dayOfYear": 9,
+    "Quantity_Ordered": 41,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e575"
+  },
+  {
+    "dayOfYear": 10,
+    "Quantity_Ordered": 35,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e576"
+  },
+  {
+    "dayOfYear": 11,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e577"
+  },
+  {
+    "dayOfYear": 12,
+    "Quantity_Ordered": 35,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e578"
+  },
+  {
+    "dayOfYear": 13,
+    "Quantity_Ordered": 38,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e579"
+  },
+  {
+    "dayOfYear": 14,
+    "Quantity_Ordered": 39,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e580"
+  },
+  {
+    "dayOfYear": 15,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e581"
+  },
+  {
+    "dayOfYear": 16,
+    "Quantity_Ordered": 40,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e582"
+  },
+  {
+    "dayOfYear": 17,
+    "Quantity_Ordered": 37,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e583"
+  },
+  {
+    "dayOfYear": 18,
+    "Quantity_Ordered": 47,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e584"
+  },
+  {
+    "dayOfYear": 19,
+    "Quantity_Ordered": 47,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e585"
+  },
+  {
+    "dayOfYear": 20,
+    "Quantity_Ordered": 41,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e586"
+  },
+  {
+    "dayOfYear": 21,
+    "Quantity_Ordered": 36,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e587"
+  },
+  {
+    "dayOfYear": 22,
+    "Quantity_Ordered": 44,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e588"
+  },
+  {
+    "dayOfYear": 23,
+    "Quantity_Ordered": 29,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e589"
+  },
+  {
+    "dayOfYear": 24,
+    "Quantity_Ordered": 48,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e590"
+  },
+  {
+    "dayOfYear": 25,
+    "Quantity_Ordered": 47,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e591"
+  },
+  {
+    "dayOfYear": 26,
+    "Quantity_Ordered": 45,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e592"
+  },
+  {
+    "dayOfYear": 27,
+    "Quantity_Ordered": 39,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e593"
+  },
+  {
+    "dayOfYear": 28,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e594"
+  },
+  {
+    "dayOfYear": 29,
+    "Quantity_Ordered": 35,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e595"
+  },
+  {
+    "dayOfYear": 30,
+    "Quantity_Ordered": 43,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e596"
+  },
+  {
+    "dayOfYear": 31,
+    "Quantity_Ordered": 28,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e597"
+  },
+  {
+    "dayOfYear": 32,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e598"
+  },
+  {
+    "dayOfYear": 33,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e599"
+  },
+  {
+    "dayOfYear": 34,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e600"
+  },
+  {
+    "dayOfYear": 35,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e601"
+  },
+  {
+    "dayOfYear": 36,
+    "Quantity_Ordered": 33,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e602"
+  },
+  {
+    "dayOfYear": 37,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e603"
+  },
+  {
+    "dayOfYear": 38,
+    "Quantity_Ordered": 64,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e604"
+  },
+  {
+    "dayOfYear": 39,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e605"
+  },
+  {
+    "dayOfYear": 40,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e606"
+  },
+  {
+    "dayOfYear": 41,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e607"
+  },
+  {
+    "dayOfYear": 42,
+    "Quantity_Ordered": 53,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e608"
+  },
+  {
+    "dayOfYear": 43,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e609"
+  },
+  {
+    "dayOfYear": 44,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e610"
+  },
+  {
+    "dayOfYear": 45,
+    "Quantity_Ordered": 44,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e611"
+  },
+  {
+    "dayOfYear": 46,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e612"
+  },
+  {
+    "dayOfYear": 47,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e613"
+  },
+  {
+    "dayOfYear": 48,
+    "Quantity_Ordered": 67,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e614"
+  },
+  {
+    "dayOfYear": 49,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e615"
+  },
+  {
+    "dayOfYear": 50,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e616"
+  },
+  {
+    "dayOfYear": 51,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e617"
+  },
+  {
+    "dayOfYear": 52,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e618"
+  },
+  {
+    "dayOfYear": 53,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e619"
+  },
+  {
+    "dayOfYear": 54,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e620"
+  },
+  {
+    "dayOfYear": 55,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e621"
+  },
+  {
+    "dayOfYear": 56,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e622"
+  },
+  {
+    "dayOfYear": 57,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e623"
+  },
+  {
+    "dayOfYear": 58,
+    "Quantity_Ordered": 67,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e624"
+  },
+  {
+    "dayOfYear": 59,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e625"
+  },
+  {
+    "dayOfYear": 60,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e626"
+  },
+  {
+    "dayOfYear": 61,
+    "Quantity_Ordered": 78,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e627"
+  },
+  {
+    "dayOfYear": 62,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e628"
+  },
+  {
+    "dayOfYear": 63,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e629"
+  },
+  {
+    "dayOfYear": 64,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e630"
+  },
+  {
+    "dayOfYear": 65,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e631"
+  },
+  {
+    "dayOfYear": 66,
+    "Quantity_Ordered": 71,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e632"
+  },
+  {
+    "dayOfYear": 67,
+    "Quantity_Ordered": 68,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e633"
+  },
+  {
+    "dayOfYear": 68,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e634"
+  },
+  {
+    "dayOfYear": 69,
+    "Quantity_Ordered": 63,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e635"
+  },
+  {
+    "dayOfYear": 70,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e636"
+  },
+  {
+    "dayOfYear": 71,
+    "Quantity_Ordered": 75,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e637"
+  },
+  {
+    "dayOfYear": 72,
+    "Quantity_Ordered": 64,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e638"
+  },
+  {
+    "dayOfYear": 73,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e639"
+  },
+  {
+    "dayOfYear": 74,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e640"
+  },
+  {
+    "dayOfYear": 75,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e641"
+  },
+  {
+    "dayOfYear": 76,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e642"
+  },
+  {
+    "dayOfYear": 77,
+    "Quantity_Ordered": 78,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e643"
+  },
+  {
+    "dayOfYear": 78,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e644"
+  },
+  {
+    "dayOfYear": 79,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e645"
+  },
+  {
+    "dayOfYear": 80,
+    "Quantity_Ordered": 64,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e646"
+  },
+  {
+    "dayOfYear": 81,
+    "Quantity_Ordered": 45,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e647"
+  },
+  {
+    "dayOfYear": 82,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e648"
+  },
+  {
+    "dayOfYear": 83,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e649"
+  },
+  {
+    "dayOfYear": 84,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e650"
+  },
+  {
+    "dayOfYear": 85,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e651"
+  },
+  {
+    "dayOfYear": 86,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e652"
+  },
+  {
+    "dayOfYear": 87,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e653"
+  },
+  {
+    "dayOfYear": 88,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e654"
+  },
+  {
+    "dayOfYear": 89,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e655"
+  },
+  {
+    "dayOfYear": 90,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e656"
+  },
+  {
+    "dayOfYear": 91,
+    "Quantity_Ordered": 75,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e657"
+  },
+  {
+    "dayOfYear": 92,
+    "Quantity_Ordered": 71,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e658"
+  },
+  {
+    "dayOfYear": 93,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e659"
+  },
+  {
+    "dayOfYear": 94,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e660"
+  },
+  {
+    "dayOfYear": 95,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e661"
+  },
+  {
+    "dayOfYear": 96,
+    "Quantity_Ordered": 89,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e662"
+  },
+  {
+    "dayOfYear": 97,
+    "Quantity_Ordered": 64,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e663"
+  },
+  {
+    "dayOfYear": 98,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e664"
+  },
+  {
+    "dayOfYear": 99,
+    "Quantity_Ordered": 89,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e665"
+  },
+  {
+    "dayOfYear": 100,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e666"
+  },
+  {
+    "dayOfYear": 101,
+    "Quantity_Ordered": 94,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e667"
+  },
+  {
+    "dayOfYear": 102,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e668"
+  },
+  {
+    "dayOfYear": 103,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e669"
+  },
+  {
+    "dayOfYear": 104,
+    "Quantity_Ordered": 90,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e670"
+  },
+  {
+    "dayOfYear": 105,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e671"
+  },
+  {
+    "dayOfYear": 106,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e672"
+  },
+  {
+    "dayOfYear": 107,
+    "Quantity_Ordered": 94,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e673"
+  },
+  {
+    "dayOfYear": 108,
+    "Quantity_Ordered": 81,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e674"
+  },
+  {
+    "dayOfYear": 109,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e675"
+  },
+  {
+    "dayOfYear": 110,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e676"
+  },
+  {
+    "dayOfYear": 111,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e677"
+  },
+  {
+    "dayOfYear": 112,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e678"
+  },
+  {
+    "dayOfYear": 113,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e679"
+  },
+  {
+    "dayOfYear": 114,
+    "Quantity_Ordered": 74,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e680"
+  },
+  {
+    "dayOfYear": 115,
+    "Quantity_Ordered": 65,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e681"
+  },
+  {
+    "dayOfYear": 116,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e682"
+  },
+  {
+    "dayOfYear": 117,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e683"
+  },
+  {
+    "dayOfYear": 118,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e684"
+  },
+  {
+    "dayOfYear": 119,
+    "Quantity_Ordered": 71,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e685"
+  },
+  {
+    "dayOfYear": 120,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e686"
+  },
+  {
+    "dayOfYear": 121,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e687"
+  },
+  {
+    "dayOfYear": 122,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e688"
+  },
+  {
+    "dayOfYear": 123,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e689"
+  },
+  {
+    "dayOfYear": 124,
+    "Quantity_Ordered": 71,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e690"
+  },
+  {
+    "dayOfYear": 125,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e691"
+  },
+  {
+    "dayOfYear": 126,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e692"
+  },
+  {
+    "dayOfYear": 127,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e693"
+  },
+  {
+    "dayOfYear": 128,
+    "Quantity_Ordered": 63,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e694"
+  },
+  {
+    "dayOfYear": 129,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e695"
+  },
+  {
+    "dayOfYear": 130,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e696"
+  },
+  {
+    "dayOfYear": 131,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e697"
+  },
+  {
+    "dayOfYear": 132,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e698"
+  },
+  {
+    "dayOfYear": 133,
+    "Quantity_Ordered": 78,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e699"
+  },
+  {
+    "dayOfYear": 134,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e700"
+  },
+  {
+    "dayOfYear": 135,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e701"
+  },
+  {
+    "dayOfYear": 136,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e702"
+  },
+  {
+    "dayOfYear": 137,
+    "Quantity_Ordered": 84,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e703"
+  },
+  {
+    "dayOfYear": 138,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e704"
+  },
+  {
+    "dayOfYear": 139,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e705"
+  },
+  {
+    "dayOfYear": 140,
+    "Quantity_Ordered": 72,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e706"
+  },
+  {
+    "dayOfYear": 141,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e707"
+  },
+  {
+    "dayOfYear": 142,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e708"
+  },
+  {
+    "dayOfYear": 143,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e709"
+  },
+  {
+    "dayOfYear": 144,
+    "Quantity_Ordered": 78,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e710"
+  },
+  {
+    "dayOfYear": 145,
+    "Quantity_Ordered": 67,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e711"
+  },
+  {
+    "dayOfYear": 146,
+    "Quantity_Ordered": 63,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e712"
+  },
+  {
+    "dayOfYear": 147,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e713"
+  },
+  {
+    "dayOfYear": 148,
+    "Quantity_Ordered": 63,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e714"
+  },
+  {
+    "dayOfYear": 149,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e715"
+  },
+  {
+    "dayOfYear": 150,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e716"
+  },
+  {
+    "dayOfYear": 151,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e717"
+  },
+  {
+    "dayOfYear": 152,
+    "Quantity_Ordered": 68,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e718"
+  },
+  {
+    "dayOfYear": 153,
+    "Quantity_Ordered": 45,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e719"
+  },
+  {
+    "dayOfYear": 154,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e720"
+  },
+  {
+    "dayOfYear": 155,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e721"
+  },
+  {
+    "dayOfYear": 156,
+    "Quantity_Ordered": 48,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e722"
+  },
+  {
+    "dayOfYear": 157,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e723"
+  },
+  {
+    "dayOfYear": 158,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e724"
+  },
+  {
+    "dayOfYear": 159,
+    "Quantity_Ordered": 34,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e725"
+  },
+  {
+    "dayOfYear": 160,
+    "Quantity_Ordered": 41,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e726"
+  },
+  {
+    "dayOfYear": 161,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e727"
+  },
+  {
+    "dayOfYear": 162,
+    "Quantity_Ordered": 68,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e728"
+  },
+  {
+    "dayOfYear": 163,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e729"
+  },
+  {
+    "dayOfYear": 164,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e730"
+  },
+  {
+    "dayOfYear": 165,
+    "Quantity_Ordered": 48,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e731"
+  },
+  {
+    "dayOfYear": 166,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e732"
+  },
+  {
+    "dayOfYear": 167,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e733"
+  },
+  {
+    "dayOfYear": 168,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e734"
+  },
+  {
+    "dayOfYear": 169,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e735"
+  },
+  {
+    "dayOfYear": 170,
+    "Quantity_Ordered": 39,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e736"
+  },
+  {
+    "dayOfYear": 171,
+    "Quantity_Ordered": 68,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e737"
+  },
+  {
+    "dayOfYear": 172,
+    "Quantity_Ordered": 53,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e738"
+  },
+  {
+    "dayOfYear": 173,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e739"
+  },
+  {
+    "dayOfYear": 174,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e740"
+  },
+  {
+    "dayOfYear": 175,
+    "Quantity_Ordered": 68,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e741"
+  },
+  {
+    "dayOfYear": 176,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e742"
+  },
+  {
+    "dayOfYear": 177,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e743"
+  },
+  {
+    "dayOfYear": 178,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e744"
+  },
+  {
+    "dayOfYear": 179,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e745"
+  },
+  {
+    "dayOfYear": 180,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e746"
+  },
+  {
+    "dayOfYear": 181,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e747"
+  },
+  {
+    "dayOfYear": 182,
+    "Quantity_Ordered": 77,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e748"
+  },
+  {
+    "dayOfYear": 183,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e749"
+  },
+  {
+    "dayOfYear": 184,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e750"
+  },
+  {
+    "dayOfYear": 185,
+    "Quantity_Ordered": 47,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e751"
+  },
+  {
+    "dayOfYear": 186,
+    "Quantity_Ordered": 45,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e752"
+  },
+  {
+    "dayOfYear": 187,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e753"
+  },
+  {
+    "dayOfYear": 188,
+    "Quantity_Ordered": 72,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e754"
+  },
+  {
+    "dayOfYear": 189,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e755"
+  },
+  {
+    "dayOfYear": 190,
+    "Quantity_Ordered": 53,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e756"
+  },
+  {
+    "dayOfYear": 191,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e757"
+  },
+  {
+    "dayOfYear": 192,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e758"
+  },
+  {
+    "dayOfYear": 193,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e759"
+  },
+  {
+    "dayOfYear": 194,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e760"
+  },
+  {
+    "dayOfYear": 195,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e761"
+  },
+  {
+    "dayOfYear": 196,
+    "Quantity_Ordered": 74,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e762"
+  },
+  {
+    "dayOfYear": 197,
+    "Quantity_Ordered": 64,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e763"
+  },
+  {
+    "dayOfYear": 198,
+    "Quantity_Ordered": 40,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e764"
+  },
+  {
+    "dayOfYear": 199,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e765"
+  },
+  {
+    "dayOfYear": 200,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e766"
+  },
+  {
+    "dayOfYear": 201,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e767"
+  },
+  {
+    "dayOfYear": 202,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e768"
+  },
+  {
+    "dayOfYear": 203,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e769"
+  },
+  {
+    "dayOfYear": 204,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e770"
+  },
+  {
+    "dayOfYear": 205,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e771"
+  },
+  {
+    "dayOfYear": 206,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e772"
+  },
+  {
+    "dayOfYear": 207,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e773"
+  },
+  {
+    "dayOfYear": 208,
+    "Quantity_Ordered": 63,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e774"
+  },
+  {
+    "dayOfYear": 209,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e775"
+  },
+  {
+    "dayOfYear": 210,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e776"
+  },
+  {
+    "dayOfYear": 211,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e777"
+  },
+  {
+    "dayOfYear": 212,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e778"
+  },
+  {
+    "dayOfYear": 213,
+    "Quantity_Ordered": 42,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e779"
+  },
+  {
+    "dayOfYear": 214,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e780"
+  },
+  {
+    "dayOfYear": 215,
+    "Quantity_Ordered": 41,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e781"
+  },
+  {
+    "dayOfYear": 216,
+    "Quantity_Ordered": 33,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e782"
+  },
+  {
+    "dayOfYear": 217,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e783"
+  },
+  {
+    "dayOfYear": 218,
+    "Quantity_Ordered": 44,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e784"
+  },
+  {
+    "dayOfYear": 219,
+    "Quantity_Ordered": 38,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e785"
+  },
+  {
+    "dayOfYear": 220,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e786"
+  },
+  {
+    "dayOfYear": 221,
+    "Quantity_Ordered": 44,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e787"
+  },
+  {
+    "dayOfYear": 222,
+    "Quantity_Ordered": 47,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e788"
+  },
+  {
+    "dayOfYear": 223,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e789"
+  },
+  {
+    "dayOfYear": 224,
+    "Quantity_Ordered": 36,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e790"
+  },
+  {
+    "dayOfYear": 225,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e791"
+  },
+  {
+    "dayOfYear": 226,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e792"
+  },
+  {
+    "dayOfYear": 227,
+    "Quantity_Ordered": 54,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e793"
+  },
+  {
+    "dayOfYear": 228,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e794"
+  },
+  {
+    "dayOfYear": 229,
+    "Quantity_Ordered": 36,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e795"
+  },
+  {
+    "dayOfYear": 230,
+    "Quantity_Ordered": 36,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e796"
+  },
+  {
+    "dayOfYear": 231,
+    "Quantity_Ordered": 43,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e797"
+  },
+  {
+    "dayOfYear": 232,
+    "Quantity_Ordered": 47,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e798"
+  },
+  {
+    "dayOfYear": 233,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e799"
+  },
+  {
+    "dayOfYear": 234,
+    "Quantity_Ordered": 48,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e800"
+  },
+  {
+    "dayOfYear": 235,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e801"
+  },
+  {
+    "dayOfYear": 236,
+    "Quantity_Ordered": 41,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e802"
+  },
+  {
+    "dayOfYear": 237,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e803"
+  },
+  {
+    "dayOfYear": 238,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e804"
+  },
+  {
+    "dayOfYear": 239,
+    "Quantity_Ordered": 43,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e805"
+  },
+  {
+    "dayOfYear": 240,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e806"
+  },
+  {
+    "dayOfYear": 241,
+    "Quantity_Ordered": 40,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e807"
+  },
+  {
+    "dayOfYear": 242,
+    "Quantity_Ordered": 32,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e808"
+  },
+  {
+    "dayOfYear": 243,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e809"
+  },
+  {
+    "dayOfYear": 244,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e810"
+  },
+  {
+    "dayOfYear": 245,
+    "Quantity_Ordered": 58,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e811"
+  },
+  {
+    "dayOfYear": 246,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e812"
+  },
+  {
+    "dayOfYear": 247,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e813"
+  },
+  {
+    "dayOfYear": 248,
+    "Quantity_Ordered": 62,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e814"
+  },
+  {
+    "dayOfYear": 249,
+    "Quantity_Ordered": 45,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e815"
+  },
+  {
+    "dayOfYear": 250,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e816"
+  },
+  {
+    "dayOfYear": 251,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e817"
+  },
+  {
+    "dayOfYear": 252,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e818"
+  },
+  {
+    "dayOfYear": 253,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e819"
+  },
+  {
+    "dayOfYear": 254,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e820"
+  },
+  {
+    "dayOfYear": 255,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e821"
+  },
+  {
+    "dayOfYear": 256,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e822"
+  },
+  {
+    "dayOfYear": 257,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e823"
+  },
+  {
+    "dayOfYear": 258,
+    "Quantity_Ordered": 60,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e824"
+  },
+  {
+    "dayOfYear": 259,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e825"
+  },
+  {
+    "dayOfYear": 260,
+    "Quantity_Ordered": 55,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e826"
+  },
+  {
+    "dayOfYear": 261,
+    "Quantity_Ordered": 43,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e827"
+  },
+  {
+    "dayOfYear": 262,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e828"
+  },
+  {
+    "dayOfYear": 263,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e829"
+  },
+  {
+    "dayOfYear": 264,
+    "Quantity_Ordered": 46,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e830"
+  },
+  {
+    "dayOfYear": 265,
+    "Quantity_Ordered": 52,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e831"
+  },
+  {
+    "dayOfYear": 266,
+    "Quantity_Ordered": 49,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e832"
+  },
+  {
+    "dayOfYear": 267,
+    "Quantity_Ordered": 50,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e833"
+  },
+  {
+    "dayOfYear": 268,
+    "Quantity_Ordered": 41,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e834"
+  },
+  {
+    "dayOfYear": 269,
+    "Quantity_Ordered": 51,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e835"
+  },
+  {
+    "dayOfYear": 270,
+    "Quantity_Ordered": 56,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e836"
+  },
+  {
+    "dayOfYear": 271,
+    "Quantity_Ordered": 53,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e837"
+  },
+  {
+    "dayOfYear": 272,
+    "Quantity_Ordered": 53,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e838"
+  },
+  {
+    "dayOfYear": 273,
+    "Quantity_Ordered": 57,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e839"
+  },
+  {
+    "dayOfYear": 274,
+    "Quantity_Ordered": 91,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e840"
+  },
+  {
+    "dayOfYear": 275,
+    "Quantity_Ordered": 72,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e841"
+  },
+  {
+    "dayOfYear": 276,
+    "Quantity_Ordered": 79,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e842"
+  },
+  {
+    "dayOfYear": 277,
+    "Quantity_Ordered": 71,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e843"
+  },
+  {
+    "dayOfYear": 278,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e844"
+  },
+  {
+    "dayOfYear": 279,
+    "Quantity_Ordered": 79,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e845"
+  },
+  {
+    "dayOfYear": 280,
+    "Quantity_Ordered": 87,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e846"
+  },
+  {
+    "dayOfYear": 281,
+    "Quantity_Ordered": 83,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e847"
+  },
+  {
+    "dayOfYear": 282,
+    "Quantity_Ordered": 80,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e848"
+  },
+  {
+    "dayOfYear": 283,
+    "Quantity_Ordered": 89,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e849"
+  },
+  {
+    "dayOfYear": 284,
+    "Quantity_Ordered": 72,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e850"
+  },
+  {
+    "dayOfYear": 285,
+    "Quantity_Ordered": 80,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e851"
+  },
+  {
+    "dayOfYear": 286,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e852"
+  },
+  {
+    "dayOfYear": 287,
+    "Quantity_Ordered": 80,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e853"
+  },
+  {
+    "dayOfYear": 288,
+    "Quantity_Ordered": 102,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e854"
+  },
+  {
+    "dayOfYear": 289,
+    "Quantity_Ordered": 101,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e855"
+  },
+  {
+    "dayOfYear": 290,
+    "Quantity_Ordered": 80,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e856"
+  },
+  {
+    "dayOfYear": 291,
+    "Quantity_Ordered": 88,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e857"
+  },
+  {
+    "dayOfYear": 292,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e858"
+  },
+  {
+    "dayOfYear": 293,
+    "Quantity_Ordered": 85,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e859"
+  },
+  {
+    "dayOfYear": 294,
+    "Quantity_Ordered": 86,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e860"
+  },
+  {
+    "dayOfYear": 295,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e861"
+  },
+  {
+    "dayOfYear": 296,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e862"
+  },
+  {
+    "dayOfYear": 297,
+    "Quantity_Ordered": 95,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e863"
+  },
+  {
+    "dayOfYear": 298,
+    "Quantity_Ordered": 84,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e864"
+  },
+  {
+    "dayOfYear": 299,
+    "Quantity_Ordered": 93,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e865"
+  },
+  {
+    "dayOfYear": 300,
+    "Quantity_Ordered": 98,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e866"
+  },
+  {
+    "dayOfYear": 301,
+    "Quantity_Ordered": 88,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e867"
+  },
+  {
+    "dayOfYear": 302,
+    "Quantity_Ordered": 64,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e868"
+  },
+  {
+    "dayOfYear": 303,
+    "Quantity_Ordered": 91,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e869"
+  },
+  {
+    "dayOfYear": 304,
+    "Quantity_Ordered": 91,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e870"
+  },
+  {
+    "dayOfYear": 305,
+    "Quantity_Ordered": 80,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e871"
+  },
+  {
+    "dayOfYear": 306,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e872"
+  },
+  {
+    "dayOfYear": 307,
+    "Quantity_Ordered": 72,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e873"
+  },
+  {
+    "dayOfYear": 308,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e874"
+  },
+  {
+    "dayOfYear": 309,
+    "Quantity_Ordered": 80,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e875"
+  },
+  {
+    "dayOfYear": 310,
+    "Quantity_Ordered": 70,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e876"
+  },
+  {
+    "dayOfYear": 311,
+    "Quantity_Ordered": 83,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e877"
+  },
+  {
+    "dayOfYear": 312,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e878"
+  },
+  {
+    "dayOfYear": 313,
+    "Quantity_Ordered": 68,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e879"
+  },
+  {
+    "dayOfYear": 314,
+    "Quantity_Ordered": 65,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e880"
+  },
+  {
+    "dayOfYear": 315,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e881"
+  },
+  {
+    "dayOfYear": 316,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e882"
+  },
+  {
+    "dayOfYear": 317,
+    "Quantity_Ordered": 75,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e883"
+  },
+  {
+    "dayOfYear": 318,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e884"
+  },
+  {
+    "dayOfYear": 319,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e885"
+  },
+  {
+    "dayOfYear": 320,
+    "Quantity_Ordered": 72,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e886"
+  },
+  {
+    "dayOfYear": 321,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e887"
+  },
+  {
+    "dayOfYear": 322,
+    "Quantity_Ordered": 59,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e888"
+  },
+  {
+    "dayOfYear": 323,
+    "Quantity_Ordered": 76,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e889"
+  },
+  {
+    "dayOfYear": 324,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e890"
+  },
+  {
+    "dayOfYear": 325,
+    "Quantity_Ordered": 91,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e891"
+  },
+  {
+    "dayOfYear": 326,
+    "Quantity_Ordered": 69,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e892"
+  },
+  {
+    "dayOfYear": 327,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e893"
+  },
+  {
+    "dayOfYear": 328,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e894"
+  },
+  {
+    "dayOfYear": 329,
+    "Quantity_Ordered": 74,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e895"
+  },
+  {
+    "dayOfYear": 330,
+    "Quantity_Ordered": 87,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e896"
+  },
+  {
+    "dayOfYear": 331,
+    "Quantity_Ordered": 61,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e897"
+  },
+  {
+    "dayOfYear": 332,
+    "Quantity_Ordered": 66,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e898"
+  },
+  {
+    "dayOfYear": 333,
+    "Quantity_Ordered": 73,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e899"
+  },
+  {
+    "dayOfYear": 334,
+    "Quantity_Ordered": 90,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e900"
+  },
+  {
+    "dayOfYear": 335,
+    "Quantity_Ordered": 99,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e901"
+  },
+  {
+    "dayOfYear": 336,
+    "Quantity_Ordered": 87,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e902"
+  },
+  {
+    "dayOfYear": 337,
+    "Quantity_Ordered": 88,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e903"
+  },
+  {
+    "dayOfYear": 338,
+    "Quantity_Ordered": 82,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e904"
+  },
+  {
+    "dayOfYear": 339,
+    "Quantity_Ordered": 94,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e905"
+  },
+  {
+    "dayOfYear": 340,
+    "Quantity_Ordered": 125,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e906"
+  },
+  {
+    "dayOfYear": 341,
+    "Quantity_Ordered": 104,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e907"
+  },
+  {
+    "dayOfYear": 342,
+    "Quantity_Ordered": 98,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e908"
+  },
+  {
+    "dayOfYear": 343,
+    "Quantity_Ordered": 81,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e909"
+  },
+  {
+    "dayOfYear": 344,
+    "Quantity_Ordered": 91,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e910"
+  },
+  {
+    "dayOfYear": 345,
+    "Quantity_Ordered": 107,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e911"
+  },
+  {
+    "dayOfYear": 346,
+    "Quantity_Ordered": 112,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e912"
+  },
+  {
+    "dayOfYear": 347,
+    "Quantity_Ordered": 104,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e913"
+  },
+  {
+    "dayOfYear": 348,
+    "Quantity_Ordered": 101,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e914"
+  },
+  {
+    "dayOfYear": 349,
+    "Quantity_Ordered": 98,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e915"
+  },
+  {
+    "dayOfYear": 350,
+    "Quantity_Ordered": 102,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e916"
+  },
+  {
+    "dayOfYear": 351,
+    "Quantity_Ordered": 105,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e917"
+  },
+  {
+    "dayOfYear": 352,
+    "Quantity_Ordered": 102,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e918"
+  },
+  {
+    "dayOfYear": 353,
+    "Quantity_Ordered": 104,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e919"
+  },
+  {
+    "dayOfYear": 354,
+    "Quantity_Ordered": 96,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e920"
+  },
+  {
+    "dayOfYear": 355,
+    "Quantity_Ordered": 97,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e921"
+  },
+  {
+    "dayOfYear": 356,
+    "Quantity_Ordered": 101,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e922"
+  },
+  {
+    "dayOfYear": 357,
+    "Quantity_Ordered": 110,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e923"
+  },
+  {
+    "dayOfYear": 358,
+    "Quantity_Ordered": 110,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e924"
+  },
+  {
+    "dayOfYear": 359,
+    "Quantity_Ordered": 108,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e925"
+  },
+  {
+    "dayOfYear": 360,
+    "Quantity_Ordered": 107,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e926"
+  },
+  {
+    "dayOfYear": 361,
+    "Quantity_Ordered": 106,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e927"
+  },
+  {
+    "dayOfYear": 362,
+    "Quantity_Ordered": 98,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e928"
+  },
+  {
+    "dayOfYear": 363,
+    "Quantity_Ordered": 109,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e929"
+  },
+  {
+    "dayOfYear": 364,
+    "Quantity_Ordered": 106,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e930"
+  },
+  {
+    "dayOfYear": 365,
+    "Quantity_Ordered": 101,
+    "produk_id": "product-0ab0c77e-758d-4495-9c35-5b6da2c8e931"
+  }
+]
